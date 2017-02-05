@@ -6,7 +6,7 @@
 #include <unistd.h>
 #include <string.h>
 
-#include "arm-detour.h"
+#include "arm-detour.hpp"
 
 struct BRANCH_INST
 {

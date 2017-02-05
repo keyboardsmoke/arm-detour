@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdint.h>
 
-#include "arm-detour.h"
+#include "arm-detour.hpp"
 
 void hook_fn()
 {
